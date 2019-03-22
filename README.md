@@ -1,4 +1,4 @@
-# wallets
+# BSHA3 wallets
 
 Windows Wallet:
 b3lwma_win.zip
